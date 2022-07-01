@@ -1,1 +1,1 @@
-# Bayesian_Hierarchical_Model_Sports_Data
+# Bayesian Hierarchical Model Sports Data
